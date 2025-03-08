@@ -20,7 +20,7 @@ A simple student database management system built using **HTML, CSS, PHP, and My
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/student-database-crud.git
+   git clone https://github.com/aakifey/Student-Database-CRUD.git
 2. Move the project folder to htdocs in your XAMPP directory.
 3. Start XAMPP and enable Apache & MySQL.
 4. Create a database in phpMyAdmin and import the provided SQL file.
